@@ -1,1 +1,3 @@
-# hidden-heritage
+# Hidden Heritage
+
+Cattolica's hidden heritage
