@@ -1,6 +1,6 @@
 # Hidden Heritage
 
-Cattolica's hidden heritage
+Data Management for Cattolica's Hidden Heritage
 
 ## Description
 
@@ -14,3 +14,5 @@ Cattolica's hidden heritage
     - https://wiss-ki.eu/
     - https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
     - https://researchspace.org/
+- [] Data documentation
+- [] Definition of dataset protocol
