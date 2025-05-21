@@ -8,11 +8,13 @@ Data Management for Cattolica's Hidden Heritage
 
 ## Roadmap
 
-- [] Data modelling: choose between [chad-ap](sources/diagrams/chad-ap) and [prov](sources/diagrams/prov)
-- [] Preparing data tables for describing objects and processes
-- [] Choosing the platform for publishing data and results:
+- [x] Data modelling: [CHAD-AP](https://w3id.org/dharc/ontology/chad-ap)
+    - [ ] Extend CHAD-AP with _dimensional information_ and additional individuals needed for the domain
+- [ ] Prepare dataset
+    - [ ] Prepare data tables for describing objects and processes
+    - [ ] Define dataset protocol
+    - [ ] Prepare data documentation
+- [ ] Choose the platform for publishing data and results:
     - https://wiss-ki.eu/
     - https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
     - https://researchspace.org/
-- [] Data documentation
-- [] Definition of dataset protocol
