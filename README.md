@@ -15,7 +15,7 @@ Data Management for Cattolica's Hidden Heritage
     - [ ] Define dataset protocol
     - [ ] Prepare data documentation
 - [ ] Choose the platform for publishing data and results:
-    - https://wiss-ki.eu/
-    - https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
-    - https://researchspace.org/
-    - Omeka S
+    - [nodegoat](https://github.com/nodegoat/nodegoat)
+    - [WissKI](https://wiss-ki.eu/)
+    - [ResearchSpace](https://researchspace.org/)
+    - [Omeka S](https://omeka.org/s/)
