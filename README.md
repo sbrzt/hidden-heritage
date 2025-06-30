@@ -18,6 +18,6 @@ Data Management for Cattolica's Hidden Heritage
     - [CollectiveAccess](https://www.collectiveaccess.org/)
     - [DSpace](https://dspace.org/)
     - [nodegoat](https://github.com/nodegoat/nodegoat)
-    ~~- [WissKI](https://wiss-ki.eu/)~~
-    ~~- [ResearchSpace](https://researchspace.org/)~~
-    ~~- [Omeka S](https://omeka.org/s/)~~
+    - ~~[WissKI](https://wiss-ki.eu/)~~
+    - ~~[ResearchSpace](https://researchspace.org/)~~
+    - ~~[Omeka S](https://omeka.org/s/)~~
