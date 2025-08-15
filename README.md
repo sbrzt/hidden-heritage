@@ -11,7 +11,7 @@ Data Management for Cattolica's Hidden Heritage.
 - [ ] Prepare dataset
     - [ ] Prepare data tables for describing objects and processes
     - [ ] Define dataset protocol
-    - [ ] Prepare data documentation
+    - [ ] Prepare data documentation (e.g. data flattening to manage data in the CMS)
 - [ ] Choose the platform for publishing data and results:
     - [Tainacan](https://wordpress.org/plugins/tainacan/)
     - [CollectiveAccess](https://www.collectiveaccess.org/)
