@@ -1,10 +1,8 @@
 # Hidden Heritage
 
-Data Management for Cattolica's Hidden Heritage
-
 ## Description
 
-
+Data Management for Cattolica's Hidden Heritage.
 
 ## Roadmap
 
